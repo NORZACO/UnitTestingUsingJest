@@ -9,7 +9,7 @@ This is a description of my awesome application. It does amazing things and solv
 To install the application, first clone the repository:
 
 ```bash
-git clone https://github.com/your-username/my-awesome-application.git
+git clone https://github.com/NORZACO/UnitTestingUsingJest.git
 
 ```
 
