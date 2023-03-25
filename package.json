@@ -1,0 +1,17 @@
+{
+  "name": "unit-testingusing-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test/sum.test.js",
+    "job" : "jest mytestfile.spec.js",
+    "person" : "jest test/person.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
