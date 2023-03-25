@@ -9,14 +9,14 @@ This is a description of my awesome application. It does amazing things and solv
 To install the application, first clone the repository:
 
 ```bash
-git clone https://github.com/NORZACO/UnitTestingUsingJest.git
+git clone https://github.com/NORZACO/UnitTestingUsingJest.git unitestProject
 
 ```
 
 Then, navigate to the project directory and install the dependencies:
 
 ```bash
-cd my-awesome-application
+cd unitestProject
 npm install
 
 ```
