@@ -9,6 +9,8 @@
     "person": "jest test/person.spec.js",
     "example": "jest test/examples.test.js",
     "pernsonV2" : "jest test/personV2.test.js",
+    "forEach" : "jest test/foreach.test.js",
+    "task"   : "jest test/test.test.js",
     "test:watch": "jest --watchAll"
   },
   "keywords": [],
