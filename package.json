@@ -8,9 +8,9 @@
     "job": "jest mytestfile.spec.js",
     "person": "jest test/person.spec.js",
     "example": "jest test/examples.test.js",
-    "pernsonV2" : "jest test/personV2.test.js",
-    "forEach" : "jest test/foreach.test.js",
-    "task"   : "jest test/test.test.js",
+    "pernsonV2": "jest test/personV2.test.js",
+    "forEach": "jest test/foreach.test.js",
+    "task": "jest test/test.test.js",
     "test:watch": "jest --watchAll"
   },
   "keywords": [],
@@ -19,8 +19,7 @@
   "devDependencies": {
     "jest": "^29.5.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NORZACO/UnitTestingUsingJest.git"
