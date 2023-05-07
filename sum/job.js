@@ -22,6 +22,20 @@ class Customer extends Person {
 }
 
 
+
+class Avaliable extends Person {
+    constructor(name, age, jobTitle, salary, email, phoneNumber) {
+        super(name, age);
+        this.jobTitle = jobTitle;
+        this.salary = salary;
+        this.email = email;
+        this.phoneNumber = phoneNumber;
+    }
+}
+
+let newDate = new Avaliable()
+console.log(newDate)
+
 //    export
 module.exports = {
     Person,
